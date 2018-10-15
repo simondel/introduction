@@ -1,0 +1,12 @@
+Hello, I am Sander Koenders and I am {age} years old. I am currently
+a programmer at Info Support B.V. I mainly focus on Java and JavaScript 
+but I also like other challenges that cross my path. My hobbies are 
+playing korfbal & squash, watching movies & series, listening to music 
+and drinking all kinds of special beers. I am always in for an evening 
+with friends and/or family and I generally like having people around to 
+have fun with. This often goes hand in hand with a couple of nice beers.
+I generally try not to be to serious about life and I like to try cool
+new stuff whenever possible. There is one golden rule that I like to 
+stay true to and that's the boyscout rule. "Always leave the campground 
+cleaner than you found it". This can apply to basically anything I do
+in life and I think this is a good rule to follow being a programmer.
